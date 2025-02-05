@@ -1,4 +1,4 @@
-## Currently playing with Python and SQL in order to check out the world of Data Analytics.
+## Currently playing with Python and SQL in order to explore the world of Data Analytics.
 ##
 ## If you're looking for a Junior in your team, feel free to reach out to me on LinkedIn! 🦖
 
