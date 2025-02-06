@@ -1,6 +1,6 @@
-## Currently playing with Python and SQL in order to explore the world of Data Analytics.
-##
-## If you're looking for a Junior in your team, feel free to reach out to me on LinkedIn! 🦖
+Currently playing with Python and SQL in order to explore the world of Data Analytics.
+
+If you're looking for a Junior in your team, feel free to reach out to me on LinkedIn! 🦖
 
 <!--
 **fscohier/fscohier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
