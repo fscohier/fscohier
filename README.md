@@ -1,3 +1,5 @@
+![running](https://github.com/fscohier/fscohier/blob/2f7275fcd1660d5e992fd6f6caf685db9e620e8f/Dino_non-birthday_version.gif)
+
 Currently playing with Python and SQL in order to explore the world of Data Analytics and Automation.
 
 If you're looking for a Junior in your team, feel free to reach out to me on LinkedIn! 🦖
