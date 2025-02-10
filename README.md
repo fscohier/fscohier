@@ -1,5 +1,5 @@
 <p align="center">
-  ![running](https://github.com/fscohier/fscohier/blob/2f7275fcd1660d5e992fd6f6caf685db9e620e8f/Dino_non-birthday_version.gif)
+  <img src="https://github.com/fscohier/fscohier/blob/2f7275fcd1660d5e992fd6f6caf685db9e620e8f/Dino_non-birthday_version.gif" alt="running_dino" />
 </p>
 
 Currently playing with Python and SQL in order to explore the world of Data Analytics and Automation.
